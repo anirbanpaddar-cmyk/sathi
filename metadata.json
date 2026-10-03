@@ -1,0 +1,6 @@
+{
+  "name": "Sathi BOLUS Fashion Boutique",
+  "description": "Exclusive Bengali boutique for designer sleeveless blouses, short kurtis, and ethnic women's fashion with real-time shopping cart and orders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
